@@ -1,0 +1,1253 @@
+#EXTM3U
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="BeInSport",Bein Sports News
+http://skdn.redi-vo.com/iptv/ch110?code=138137164006399&key=54197
+#EXTINF:0 tvg-id="beINSPORTSenespanol.us" group-title="BeInSport",Bein Sport
+http://skdn.redi-vo.com/iptv/ch400?code=138137164006399&key=59815
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BeInSport",BeInSport 1 HD
+http://skdn.redi-vo.com/iptv/ch111?code=138137164006399&key=43721
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="BeInSport",BeInSport 1 SD
+http://skdn.redi-vo.com/iptv/ch8111?code=138137164006399&key=23601
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BeInSport",BeInSport 2 HD
+http://skdn.redi-vo.com/iptv/ch112?code=138137164006399&key=15283
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BeInSport",BeInSport 2 SD
+http://skdn.redi-vo.com/iptv/ch8112?code=138137164006399&key=46787
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BeInSport",BeInSport 3 HD
+http://skdn.redi-vo.com/iptv/ch113?code=138137164006399&key=55175
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="BeInSport",BeInSport 3 SD
+http://skdn.redi-vo.com/iptv/ch8113?code=138137164006399&key=47623
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BeInSport",BeInSport 4 HD
+http://skdn.redi-vo.com/iptv/ch114?code=138137164006399&key=11155
+#EXTINF:0 tvg-id="ext" group-title="BeInSport",BeInSport 4 SD
+http://skdn.redi-vo.com/iptv/ch8114?code=138137164006399&key=17371
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BeInSport",BeInSport 5 HD
+http://skdn.redi-vo.com/iptv/ch115?code=138137164006399&key=60267
+#EXTINF:0 tvg-id="ext" group-title="BeInSport",BeInSport 5 SD
+http://skdn.redi-vo.com/iptv/ch8115?code=138137164006399&key=57399
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BeInSport",BeInSport 6 HD
+http://skdn.redi-vo.com/iptv/ch116?code=138137164006399&key=41032
+#EXTINF:0 tvg-id="ext" group-title="BeInSport",BeInSport 6 SD
+http://skdn.redi-vo.com/iptv/ch8116?code=138137164006399&key=57526
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BeInSport",BeInSport 7 HD
+http://skdn.redi-vo.com/iptv/ch117?code=138137164006399&key=18320
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BeInSport",BeInSport 7 SD
+http://skdn.redi-vo.com/iptv/ch8117?code=138137164006399&key=63083
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BeInSport",BeInSport 8 HD
+http://skdn.redi-vo.com/iptv/ch118?code=138137164006399&key=14864
+#EXTINF:0 tvg-id="ext" group-title="BeInSport",BeInSport 8 SD
+http://skdn.redi-vo.com/iptv/ch8118?code=138137164006399&key=51006
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="BeInSport",BeInSport 9 HD
+http://skdn.redi-vo.com/iptv/ch510?code=138137164006399&key=33263
+#EXTINF:0 tvg-id="ext" group-title="BeInSport",BeInSport 9 SD
+http://skdn.redi-vo.com/iptv/ch8510?code=138137164006399&key=44731
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="BeInSport",BeInSport 10 HD
+http://skdn.redi-vo.com/iptv/ch511?code=138137164006399&key=14370
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="BeInSport",BeInSport 10 SD
+http://skdn.redi-vo.com/iptv/ch8511?code=138137164006399&key=25858
+#EXTINF:0 tvg-id="bein11hd.jsc" group-title="BeInSport",BeInSport 11 HD
+http://skdn.redi-vo.com/iptv/ch512?code=138137164006399&key=54046
+#EXTINF:0 tvg-id="ext" group-title="BeInSport",BeInSport 11 SD
+http://skdn.redi-vo.com/iptv/c8h512?code=138137164006399&key=14991
+#EXTINF:0 tvg-id="bein12hd.jsc" group-title="BeInSport",BeInSport 12 HD
+http://skdn.redi-vo.com/iptv/ch513?code=138137164006399&key=43736
+#EXTINF:0 tvg-id="ext" group-title="BeInSport",BeInSport 12 SD
+http://skdn.redi-vo.com/iptv/ch8513?code=138137164006399&key=22903
+#EXTINF:0 tvg-id="bein13hd.jsc" group-title="BeInSport",BeInSport 13 HD
+http://skdn.redi-vo.com/iptv/ch514?code=138137164006399&key=38145
+#EXTINF:0 tvg-id="bein13hd.jsc" group-title="BeInSport",BeInSport 13 SD
+http://skdn.redi-vo.com/iptv/ch8514?code=138137164006399&key=14602
+#EXTINF:0 tvg-id="bein14hd.jsc" group-title="BeInSport",BeInSport 14 HD
+http://skdn.redi-vo.com/iptv/ch515?code=138137164006399&key=63904
+#EXTINF:0 tvg-id="bein14hd.jsc" group-title="BeInSport",BeInSport 14 SD
+http://skdn.redi-vo.com/iptv/ch8515?code=138137164006399&key=37780
+#EXTINF:0 tvg-id="bein15hd.jsc" group-title="BeInSport",BeInSport 15 HD
+http://skdn.redi-vo.com/iptv/ch516?code=138137164006399&key=17781
+#EXTINF:0 tvg-id="bein15hd.jsc" group-title="BeInSport",BeInSport 15 SD
+http://skdn.redi-vo.com/iptv/ch8516?code=138137164006399&key=40595
+#EXTINF:0 tvg-id="bein16hd.jsc" group-title="BeInSport",BeInSport 16 HD
+http://skdn.redi-vo.com/iptv/ch517?code=138137164006399&key=54532
+#EXTINF:0 tvg-id="ext" group-title="BeInSport",BeInSport NBA HD
+http://skdn.redi-vo.com/iptv/ch522?code=138137164006399&key=61934
+
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",National 1
+http://skdn.redi-vo.com/iptv/ch1?code=138137164006399&key=30964
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",National 1 HD
+http://skdn.redi-vo.com/iptv/ch10?code=138137164006399&key=18902
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",National 2
+http://skdn.redi-vo.com/iptv/ch2?code=138137164006399&key=53958
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Al Hiwar Ettounsi
+http://skdn.redi-vo.com/iptv/ch3?code=138137164006399&key=59534
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Attasia TV
+http://skdn.redi-vo.com/iptv/ch4?code=138137164006399&key=63713
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Nessma TV
+http://skdn.redi-vo.com/iptv/ch5?code=138137164006399&key=32403
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Hannibal TV
+http://skdn.redi-vo.com/iptv/ch6?code=138137164006399&key=45720
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Carthage tv
+http://skdn.redi-vo.com/iptv/ch801?code=138137164006399&key=24181
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Telvza TV
+http://skdn.redi-vo.com/iptv/ch12?code=138137164006399&key=29234
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Al Janoubia
+http://skdn.redi-vo.com/iptv/ch7?code=138137164006399&key=21660
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",M Tunisia
+http://skdn.redi-vo.com/iptv/ch14?code=138137164006399&key=15773
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Tounesna
+http://skdn.redi-vo.com/iptv/ch8?code=138137164006399&key=47955
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Al Mustakilla
+http://skdn.redi-vo.com/iptv/ch77?code=138137164006399&key=24071
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Zaytouna TV
+http://skdn.redi-vo.com/iptv/ch9?code=138137164006399&key=56201
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Sahel Tv
+http://skdn.redi-vo.com/iptv/ch1194?code=138137164006399&key=26907
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Tunisia Live Events
+http://skdn.redi-vo.com/iptv/ch949?code=138137164006399&key=55078
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Insen TV
+http://skdn.redi-vo.com/iptv/ch745?code=138137164006399&key=50559
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",TT 1
+http://skdn.redi-vo.com/iptv/ch734?code=138137164006399&key=46625
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Jawhara FM
+http://skdn.redi-vo.com/iptv/ch800?code=138137164006399&key=10214
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Mosaique FM
+http://skdn.redi-vo.com/iptv/ch802?code=138137164006399&key=50898
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",National 2 TNT
+http://skdn.redi-vo.com/iptv/ch11?code=138137164006399&key=49238
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Al Hiwar Ettounsi TNT
+http://skdn.redi-vo.com/iptv/ch13?code=138137164006399&key=21073
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Hannibal TV TNT
+http://skdn.redi-vo.com/iptv/ch18?code=138137164006399&key=11892
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",National 1 +4
+http://skdn.redi-vo.com/iptv/ch4001?code=138137164006399&key=61834
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",National 2 +4
+http://skdn.redi-vo.com/iptv/ch4002?code=138137164006399&key=52729
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Attasia TV +4
+http://skdn.redi-vo.com/iptv/ch4004?code=138137164006399&key=46625
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Hannibal TV +4
+http://skdn.redi-vo.com/iptv/ch4006?code=138137164006399&key=20517
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Nessma TV +4
+http://skdn.redi-vo.com/iptv/ch4005?code=138137164006399&key=41213
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Al Hiwar Ettounsi +4
+http://skdn.redi-vo.com/iptv/ch4003?code=138137164006399&key=23086
+
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Samira TV
+http://skdn.redi-vo.com/iptv/ch194?code=138137164006399&key=59317
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ennahar Algerie
+http://skdn.redi-vo.com/iptv/ch724?code=138137164006399&key=31994
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Chourouk TV
+http://skdn.redi-vo.com/iptv/ch719?code=138137164006399&key=36430
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Chourouk News
+http://skdn.redi-vo.com/iptv/ch754?code=138137164006399&key=20189
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Chourouk Plus
+http://skdn.redi-vo.com/iptv/ch726?code=138137164006399&key=31555
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Programme National HD
+http://skdn.redi-vo.com/iptv/ch1010?code=138137164006399&key=23814
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Programme National
+http://skdn.redi-vo.com/iptv/ch1014?code=138137164006399&key=49532
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Canal ALGERIE 1 HD
+http://skdn.redi-vo.com/iptv/ch1011?code=138137164006399&key=13169
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Canal ALGERIE 1
+http://skdn.redi-vo.com/iptv/ch60?code=138137164006399&key=34059
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Canal 3
+http://skdn.redi-vo.com/iptv/ch137?code=138137164006399&key=18408
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Dzaier News
+http://skdn.redi-vo.com/iptv/ch156?code=138137164006399&key=46279
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Dzaier TV
+http://skdn.redi-vo.com/iptv/ch157?code=138137164006399&key=62589
+#EXTINF:0 tvg-id="ext" group-title="Algeria",TV Tamazight Alger
+http://skdn.redi-vo.com/iptv/ch735?code=138137164006399&key=24573
+#EXTINF:0 tvg-id="ext" group-title="Algeria",El Bilad TV
+http://skdn.redi-vo.com/iptv/ch795?code=138137164006399&key=31048
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Beur TV
+http://skdn.redi-vo.com/iptv/ch161?code=138137164006399&key=33994
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Haddef Algerie
+http://skdn.redi-vo.com/iptv/ch191?code=138137164006399&key=15641
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Al Jazairya TV
+http://skdn.redi-vo.com/iptv/ch496?code=138137164006399&key=45282
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Al Magharibia
+http://skdn.redi-vo.com/iptv/ch172?code=138137164006399&key=54864
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Al Magharibia 2
+http://skdn.redi-vo.com/iptv/ch780?code=138137164006399&key=64662
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Berbere TV
+http://skdn.redi-vo.com/iptv/ch1012?code=138137164006399&key=62387
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Numidia TV
+http://skdn.redi-vo.com/iptv/ch474?code=138137164006399&key=54141
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Al Fajr TV
+http://skdn.redi-vo.com/iptv/ch847?code=138137164006399&key=49005
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Bahia Tv
+http://skdn.redi-vo.com/iptv/ch700?code=138137164006399&key=52405
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Chams Tv
+http://skdn.redi-vo.com/iptv/ch162?code=138137164006399&key=33344
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Adjwaa
+http://skdn.redi-vo.com/iptv/ch560?code=138137164006399&key=30268
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Programme Nat. +4
+http://skdn.redi-vo.com/iptv/ch4101?code=138137164006399&key=51317
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Canal ALGERIE 1 +4
+http://skdn.redi-vo.com/iptv/ch4060?code=138137164006399&key=21516
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Chourouk TV +4
+http://skdn.redi-vo.com/iptv/ch4719?code=138137164006399&key=33539
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ennahar Algerie +4
+http://skdn.redi-vo.com/iptv/ch4724?code=138137164006399&key=26200
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Canal 3 +4
+http://skdn.redi-vo.com/iptv/ch4137?code=138137164006399&key=19219
+
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Oula Maroc HD
+http://skdn.redi-vo.com/iptv/ch729?code=138137164006399&key=50998
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Al Oula Laayoun
+http://skdn.redi-vo.com/iptv/ch611?code=138137164006399&key=41295
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Oula Maroc HD TNT
+http://skdn.redi-vo.com/iptv/ch350?code=138137164006399&key=55331
+#EXTINF:0 tvg-id="2MMaroc.ma" group-title="Morocco",2M Maroc
+http://skdn.redi-vo.com/iptv/ch121?code=138137164006399&key=45225
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Medi1 Maghreb HD
+http://skdn.redi-vo.com/iptv/ch166?code=138137164006399&key=58340
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Medi1 Afrique HD
+http://skdn.redi-vo.com/iptv/ch1460?code=138137164006399&key=41260
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Medi1 Arab HD
+http://skdn.redi-vo.com/iptv/ch1461?code=138137164006399&key=54024
+#EXTINF:0 tvg-id="Arrabiaa.ma" group-title="Morocco",Arrabiaa
+http://skdn.redi-vo.com/iptv/ch761?code=138137164006399&key=41433
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Arriadhia
+http://skdn.redi-vo.com/iptv/ch733?code=138137164006399&key=51182
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Arriadhia TNT
+http://skdn.redi-vo.com/iptv/ch351?code=138137164006399&key=13465
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Arriadhia Live HD
+http://skdn.redi-vo.com/iptv/ch377?code=138137164006399&key=59809
+#EXTINF:0 tvg-id="Assadissa.ma" group-title="Morocco",Assadissa
+http://skdn.redi-vo.com/iptv/ch147?code=138137164006399&key=50967
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Assabiaa TNT
+http://skdn.redi-vo.com/iptv/ch352?code=138137164006399&key=27567
+#EXTINF:0 tvg-id="AlMaghribia.ma" group-title="Morocco",Al Maghribia
+http://skdn.redi-vo.com/iptv/ch56?code=138137164006399&key=20570
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Tamazight Maroc
+http://skdn.redi-vo.com/iptv/ch487?code=138137164006399&key=39894
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Tele Maroc
+http://skdn.redi-vo.com/iptv/ch1142?code=138137164006399&key=25675
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Chada TV
+http://skdn.redi-vo.com/iptv/ch666?code=138137164006399&key=23737
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Canal Atlas
+http://skdn.redi-vo.com/iptv/ch615?code=138137164006399&key=52165
+#EXTINF:0 tvg-id="ext" group-title="Morocco",2M Maroc +4
+http://skdn.redi-vo.com/iptv/ch4121?code=138137164006399&key=44050
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Medi1 +4
+http://skdn.redi-vo.com/iptv/ch4166?code=138137164006399&key=13219
+#EXTINF:0 tvg-id="ext" group-title="Morocco",Oula Maroc HD +4
+http://skdn.redi-vo.com/iptv/ch4729?code=138137164006399&key=20951
+
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",MEIE TV
+http://skdn.redi-vo.com/iptv/ch1530?code=138137164006399&key=21060
+#EXTINF:0 tvg-id="o-tv" group-title="Lebanon",O-Tv
+http://skdn.redi-vo.com/iptv/ch186?code=138137164006399&key=43436
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",MTV Lebanon
+http://skdn.redi-vo.com/iptv/ch163?code=138137164006399&key=59339
+#EXTINF:0 tvg-id="FutureTV.net" group-title="Lebanon",Future TV
+http://skdn.redi-vo.com/iptv/ch705?code=138137164006399&key=55277
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Alaan
+http://skdn.redi-vo.com/iptv/ch136?code=138137164006399&key=17311
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Lebanon TV
+http://skdn.redi-vo.com/iptv/ch482?code=138137164006399&key=60169
+#EXTINF:0 tvg-id="lbc.il" group-title="Lebanon",LBC
+http://skdn.redi-vo.com/iptv/ch28?code=138137164006399&key=17101
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",LDC Lebanon
+http://skdn.redi-vo.com/iptv/ch170?code=138137164006399&key=22746
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Al Mayadeen
+http://skdn.redi-vo.com/iptv/ch132?code=138137164006399&key=49567
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Al Jadeed TV
+http://skdn.redi-vo.com/iptv/ch785?code=138137164006399&key=38665
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",NBN
+http://skdn.redi-vo.com/iptv/ch178?code=138137164006399&key=24518
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Al Manar
+http://skdn.redi-vo.com/iptv/ch58?code=138137164006399&key=26773
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",MTV Lebanon +4
+http://skdn.redi-vo.com/iptv/ch4163?code=138137164006399&key=33858
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",LBC +4
+http://skdn.redi-vo.com/iptv/ch4028?code=138137164006399&key=30273
+
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",Mouritania
+http://skdn.redi-vo.com/iptv/ch171?code=138137164006399&key=53811
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",Mouritania HD
+http://skdn.redi-vo.com/iptv/ch1633?code=138137164006399&key=28076
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",Mouritania 2
+http://skdn.redi-vo.com/iptv/ch633?code=138137164006399&key=46212
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",Watania Mouritania
+http://skdn.redi-vo.com/iptv/ch632?code=138137164006399&key=63503
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",Mouritania Sport
+http://skdn.redi-vo.com/iptv/ch1634?code=138137164006399&key=57686
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",Mouritania Thakafia
+http://skdn.redi-vo.com/iptv/ch1635?code=138137164006399&key=51443
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",Mouritania Barlamanya
+http://skdn.redi-vo.com/iptv/ch1636?code=138137164006399&key=49127
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",Tawazon Tv
+http://skdn.redi-vo.com/iptv/ch8620?code=138137164006399&key=63781
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",Al Mourabitoune
+http://skdn.redi-vo.com/iptv/ch630?code=138137164006399&key=56764
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",Chinguit TV Mouritan
+http://skdn.redi-vo.com/iptv/ch838?code=138137164006399&key=22441
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",Dava TV Mouritanie
+http://skdn.redi-vo.com/iptv/ch1032?code=138137164006399&key=33192
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",El Mahadra Mouritani
+http://skdn.redi-vo.com/iptv/ch711?code=138137164006399&key=22986
+#EXTINF:0 tvg-id="ext" group-title="Mauritanie",Sahel TV
+http://skdn.redi-vo.com/iptv/ch158?code=138137164006399&key=39612
+
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Sudan TV
+http://skdn.redi-vo.com/iptv/ch713?code=138137164006399&key=19006
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Chourouk Sudan
+http://skdn.redi-vo.com/iptv/ch471?code=138137164006399&key=56242
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Soudan drama
+http://skdn.redi-vo.com/iptv/ch1035?code=138137164006399&key=60029
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Blue Nile tv
+http://skdn.redi-vo.com/iptv/ch149?code=138137164006399&key=37795
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Southern Sudan
+http://skdn.redi-vo.com/iptv/ch1637?code=138137164006399&key=57739
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Sudania 24 TV
+http://skdn.redi-vo.com/iptv/ch1166?code=138137164006399&key=12343
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Sudanna TV
+http://skdn.redi-vo.com/iptv/ch1638?code=138137164006399&key=51352
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Tanasuh TV
+http://skdn.redi-vo.com/iptv/ch1029?code=138137164006399&key=18612
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Tayba TV
+http://skdn.redi-vo.com/iptv/ch716?code=138137164006399&key=13562
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Tayba School
+http://skdn.redi-vo.com/iptv/ch1088?code=138137164006399&key=59589
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Khaer Soudan
+http://skdn.redi-vo.com/iptv/ch1037?code=138137164006399&key=61171
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Om Durman
+http://skdn.redi-vo.com/iptv/ch8621?code=138137164006399&key=45370
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Soudan Monawaat
+http://skdn.redi-vo.com/iptv/ch360?code=138137164006399&key=46602
+#EXTINF:0 tvg-id="ext" group-title="Soudan",South Darfur
+http://skdn.redi-vo.com/iptv/ch1089?code=138137164006399&key=31559
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Sudan Sport HD
+http://skdn.redi-vo.com/iptv/ch1070?code=138137164006399&key=10622
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Sudan Sport 2
+http://skdn.redi-vo.com/iptv/ch1071?code=138137164006399&key=27348
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Al Hilal
+http://skdn.redi-vo.com/iptv/ch1080?code=138137164006399&key=21366
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Al Marrikh
+http://skdn.redi-vo.com/iptv/ch1084?code=138137164006399&key=51173
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Neelain TV
+http://skdn.redi-vo.com/iptv/ch1028?code=138137164006399&key=59531
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Dorar
+http://skdn.redi-vo.com/iptv/ch8622?code=138137164006399&key=35949
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Kassala
+http://skdn.redi-vo.com/iptv/ch1085?code=138137164006399&key=41564
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Estijaba
+http://skdn.redi-vo.com/iptv/ch1083?code=138137164006399&key=31909
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Al Gezira
+http://skdn.redi-vo.com/iptv/ch1082?code=138137164006399&key=18148
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Red Sea
+http://skdn.redi-vo.com/iptv/ch1081?code=138137164006399&key=15152
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Africa 1
+http://skdn.redi-vo.com/iptv/ch1024?code=138137164006399&key=52867
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Africa 2
+http://skdn.redi-vo.com/iptv/ch1025?code=138137164006399&key=32312
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Africa 3
+http://skdn.redi-vo.com/iptv/ch1026?code=138137164006399&key=58363
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Africa 4
+http://skdn.redi-vo.com/iptv/ch1027?code=138137164006399&key=45312
+#EXTINF:0 tvg-id="ext" group-title="Soudan",Dabanga Soudan
+http://skdn.redi-vo.com/iptv/ch1154?code=138137164006399&key=43257
+
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Libya One TV
+http://skdn.redi-vo.com/iptv/ch1630?code=138137164006399&key=38418
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Libya 218 TV
+http://skdn.redi-vo.com/iptv/ch1631?code=138137164006399&key=35616
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Libya 218 News
+http://skdn.redi-vo.com/iptv/ch1632?code=138137164006399&key=37590
+#EXTINF:0 tvg-id="ext" group-title="Lybia",22 TV
+http://skdn.redi-vo.com/iptv/ch1629?code=138137164006399&key=41754
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Libyan  TV
+http://skdn.redi-vo.com/iptv/ch1628?code=138137164006399&key=62067
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Libya errasmia
+http://skdn.redi-vo.com/iptv/ch467?code=138137164006399&key=32877
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Libya Al Ahrar
+http://skdn.redi-vo.com/iptv/ch476?code=138137164006399&key=64482
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Salam TV
+http://skdn.redi-vo.com/iptv/ch1128?code=138137164006399&key=54570
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Libya TV
+http://skdn.redi-vo.com/iptv/ch1050?code=138137164006399&key=15254
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Libya Al-wasat
+http://skdn.redi-vo.com/iptv/ch1161?code=138137164006399&key=46596
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Lybia Hadath
+http://skdn.redi-vo.com/iptv/ch1160?code=138137164006399&key=35866
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Lybia channels
+http://skdn.redi-vo.com/iptv/ch1079?code=138137164006399&key=28708
+#EXTINF:0 tvg-id="ext" group-title="Lybia",LPC
+http://skdn.redi-vo.com/iptv/ch1078?code=138137164006399&key=25257
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Lybia Sport 1
+http://skdn.redi-vo.com/iptv/ch1077?code=138137164006399&key=62749
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Lybia Future
+http://skdn.redi-vo.com/iptv/ch1076?code=138137164006399&key=10446
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Lybia Watanya
+http://skdn.redi-vo.com/iptv/ch1075?code=138137164006399&key=48576
+#EXTINF:0 tvg-id="ext" group-title="Lybia",AL Marsad
+http://skdn.redi-vo.com/iptv/ch1074?code=138137164006399&key=47971
+#EXTINF:0 tvg-id="ext" group-title="Lybia",AL Jamahirya
+http://skdn.redi-vo.com/iptv/ch1073?code=138137164006399&key=16576
+#EXTINF:0 tvg-id="ext" group-title="Lybia",Libya el watan
+http://skdn.redi-vo.com/iptv/ch499?code=138137164006399&key=43621
+
+#EXTINF:0 tvg-id="ext" group-title="Palastine",Palestine
+http://skdn.redi-vo.com/iptv/ch188?code=138137164006399&key=39610
+#EXTINF:0 tvg-id="ext" group-title="Palastine",Palastinian Tv
+http://skdn.redi-vo.com/iptv/ch435?code=138137164006399&key=57730
+#EXTINF:0 tvg-id="ext" group-title="Palastine",Palastine Today
+http://skdn.redi-vo.com/iptv/ch484?code=138137164006399&key=15415
+#EXTINF:0 tvg-id="ext" group-title="Palastine",Palastine Sport
+http://skdn.redi-vo.com/iptv/ch434?code=138137164006399&key=49588
+#EXTINF:0 tvg-id="ext" group-title="Palastine",Palastine News
+http://skdn.redi-vo.com/iptv/ch449?code=138137164006399&key=14629
+#EXTINF:0 tvg-id="ext" group-title="Palastine",Al falastiniah Tv
+http://skdn.redi-vo.com/iptv/ch448?code=138137164006399&key=42782
+#EXTINF:0 tvg-id="ext" group-title="Palastine",Annajah Tv
+http://skdn.redi-vo.com/iptv/ch447?code=138137164006399&key=32863
+#EXTINF:0 tvg-id="ext" group-title="Palastine",Musawa Tv
+http://skdn.redi-vo.com/iptv/ch454?code=138137164006399&key=37716
+#EXTINF:0 tvg-id="ext" group-title="Palastine",Awdah Tv
+http://skdn.redi-vo.com/iptv/ch455?code=138137164006399&key=23487
+#EXTINF:0 tvg-id="ext" group-title="Palastine",Palastine Live
+http://skdn.redi-vo.com/iptv/ch460?code=138137164006399&key=25726
+
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Anbar TV
+http://skdn.redi-vo.com/iptv/ch488?code=138137164006399&key=12574
+#EXTINF:0 tvg-id="ext" group-title="Iraq",ANB
+http://skdn.redi-vo.com/iptv/ch177?code=138137164006399&key=12497
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Al Anwar
+http://skdn.redi-vo.com/iptv/ch1639?code=138137164006399&key=45100
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Al Falloujah
+http://skdn.redi-vo.com/iptv/ch378?code=138137164006399&key=37964
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Al hurra Iraq
+http://skdn.redi-vo.com/iptv/ch433?code=138137164006399&key=19767
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Babylon TV
+http://skdn.redi-vo.com/iptv/ch1640?code=138137164006399&key=39684
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Iraquiya TV
+http://skdn.redi-vo.com/iptv/ch494?code=138137164006399&key=53377
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Iraq Future Tv
+http://skdn.redi-vo.com/iptv/ch1136?code=138137164006399&key=15138
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Al Dyiar Iraq
+http://skdn.redi-vo.com/iptv/ch1137?code=138137164006399&key=61902
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Iraq Ur Tv
+http://skdn.redi-vo.com/iptv/ch1625?code=138137164006399&key=30514
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Iraqi Edu Tv
+http://skdn.redi-vo.com/iptv/ch1626?code=138137164006399&key=42422
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Baghdad Tv
+http://skdn.redi-vo.com/iptv/ch1138?code=138137164006399&key=48414
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Samarra Tv
+http://skdn.redi-vo.com/iptv/ch1139?code=138137164006399&key=14788
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Hona Baghdad
+http://skdn.redi-vo.com/iptv/ch1140?code=138137164006399&key=50691
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Dijla Tv
+http://skdn.redi-vo.com/iptv/ch1141?code=138137164006399&key=43631
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Al Huda
+http://skdn.redi-vo.com/iptv/ch1123?code=138137164006399&key=52058
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Beladi
+http://skdn.redi-vo.com/iptv/ch495?code=138137164006399&key=27589
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Fourat TV
+http://skdn.redi-vo.com/iptv/ch72?code=138137164006399&key=19933
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Baghdada Tv
+http://skdn.redi-vo.com/iptv/ch628?code=138137164006399&key=29755
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Al Sahat
+http://skdn.redi-vo.com/iptv/ch627?code=138137164006399&key=49383
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Al Hadath
+http://skdn.redi-vo.com/iptv/ch355?code=138137164006399&key=58525
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Al Gadir
+http://skdn.redi-vo.com/iptv/ch354?code=138137164006399&key=37235
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Al Rafiden
+http://skdn.redi-vo.com/iptv/ch361?code=138137164006399&key=32201
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Al Mawsliya
+http://skdn.redi-vo.com/iptv/ch626?code=138137164006399&key=63925
+
+#EXTINF:0 tvg-id="BahrainTV.net" group-title="Bahrain-Oman",Bahrain Tv
+http://skdn.redi-vo.com/iptv/ch554?code=138137164006399&key=63824
+#EXTINF:0 tvg-id="ext" group-title="Bahrain-Oman",Bahrain Quran
+http://skdn.redi-vo.com/iptv/ch558?code=138137164006399&key=46918
+#EXTINF:0 tvg-id="ext" group-title="Bahrain-Oman",Bahrain Sport 1
+http://skdn.redi-vo.com/iptv/ch557?code=138137164006399&key=14863
+#EXTINF:0 tvg-id="ext" group-title="Bahrain-Oman",Bahrain Sport 2
+http://skdn.redi-vo.com/iptv/ch556?code=138137164006399&key=53314
+#EXTINF:0 tvg-id="ext" group-title="Bahrain-Oman",Bahrain Int.
+http://skdn.redi-vo.com/iptv/ch555?code=138137164006399&key=60475
+#EXTINF:0 tvg-id="ext" group-title="Bahrain-Oman",Oman Tv
+http://skdn.redi-vo.com/iptv/ch550?code=138137164006399&key=41009
+#EXTINF:0 tvg-id="ext" group-title="Bahrain-Oman",Oman Tv Live
+http://skdn.redi-vo.com/iptv/ch551?code=138137164006399&key=26110
+#EXTINF:0 tvg-id="ext" group-title="Bahrain-Oman",Oman Tv Sport
+http://skdn.redi-vo.com/iptv/ch552?code=138137164006399&key=22022
+#EXTINF:0 tvg-id="ext" group-title="Bahrain-Oman",Oman Tv Cultur
+http://skdn.redi-vo.com/iptv/ch553?code=138137164006399&key=18717
+
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Nile TV
+http://skdn.redi-vo.com/iptv/ch181?code=138137164006399&key=56732
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Nile Cinema
+http://skdn.redi-vo.com/iptv/ch180?code=138137164006399&key=14783
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Nile Drama
+http://skdn.redi-vo.com/iptv/ch69?code=138137164006399&key=27731
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Nile Culture
+http://skdn.redi-vo.com/iptv/ch185?code=138137164006399&key=33102
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Nile Comedy
+http://skdn.redi-vo.com/iptv/ch68?code=138137164006399&key=33698
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Nile Family
+http://skdn.redi-vo.com/iptv/ch70?code=138137164006399&key=32302
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Nile Life
+http://skdn.redi-vo.com/iptv/ch781?code=138137164006399&key=43206
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Hayat Mousalsalet
+http://skdn.redi-vo.com/iptv/ch21?code=138137164006399&key=26408
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Dream 2
+http://skdn.redi-vo.com/iptv/ch714?code=138137164006399&key=57521
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al Hayat
+http://skdn.redi-vo.com/iptv/ch138?code=138137164006399&key=27181
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al Hayat 2
+http://skdn.redi-vo.com/iptv/ch777?code=138137164006399&key=59601
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Sehha wal Jamal
+http://skdn.redi-vo.com/iptv/ch1135?code=138137164006399&key=52912
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Soumaria
+http://skdn.redi-vo.com/iptv/ch130?code=138137164006399&key=64019
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al Hurra Tv
+http://skdn.redi-vo.com/iptv/ch135?code=138137164006399&key=62165
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Cairo Cinema
+http://skdn.redi-vo.com/iptv/ch63?code=138137164006399&key=61455
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Cairo Drama
+http://skdn.redi-vo.com/iptv/ch64?code=138137164006399&key=35000
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Cimaa
+http://skdn.redi-vo.com/iptv/ch66?code=138137164006399&key=38147
+#EXTINF:0 tvg-id="ext" group-title="Egypt",I-film
+http://skdn.redi-vo.com/iptv/ch492?code=138137164006399&key=40614
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Athania Masr
+http://skdn.redi-vo.com/iptv/ch67?code=138137164006399&key=33573
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al Assema Tv
+http://skdn.redi-vo.com/iptv/ch140?code=138137164006399&key=45883
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al Assema 2 Tv
+http://skdn.redi-vo.com/iptv/ch814?code=138137164006399&key=16838
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Nahar Nour
+http://skdn.redi-vo.com/iptv/ch453?code=138137164006399&key=55022
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Nahar 2
+http://skdn.redi-vo.com/iptv/ch765?code=138137164006399&key=53101
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Nahar Drama
+http://skdn.redi-vo.com/iptv/ch59?code=138137164006399&key=37633
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Nahar Al Yaoum
+http://skdn.redi-vo.com/iptv/ch752?code=138137164006399&key=26725
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al Eskandaria Tv
+http://skdn.redi-vo.com/iptv/ch127?code=138137164006399&key=41914
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Annahar TV
+http://skdn.redi-vo.com/iptv/ch772?code=138137164006399&key=29294
+#EXTINF:0 tvg-id="ext" group-title="Egypt",ON-Tv
+http://skdn.redi-vo.com/iptv/ch187?code=138137164006399&key=17136
+#EXTINF:0 tvg-id="ext" group-title="Egypt",ON-Tv Sport
+http://skdn.redi-vo.com/iptv/ch458?code=138137164006399&key=45984
+#EXTINF:0 tvg-id="ext" group-title="Egypt",ON-Tv Live
+http://skdn.redi-vo.com/iptv/ch746?code=138137164006399&key=18704
+#EXTINF:0 tvg-id="ext" group-title="Egypt",ON-Tv Drama
+http://skdn.redi-vo.com/iptv/ch1121?code=138137164006399&key=62995
+#EXTINF:0 tvg-id="ext" group-title="Egypt",DMC Masraheyat
+http://skdn.redi-vo.com/iptv/ch509?code=138137164006399&key=33630
+#EXTINF:0 tvg-id="ext" group-title="Egypt",DMC Drama
+http://skdn.redi-vo.com/iptv/ch508?code=138137164006399&key=46086
+#EXTINF:0 tvg-id="ext" group-title="Egypt",DMC Kids
+http://skdn.redi-vo.com/iptv/ch507?code=138137164006399&key=60430
+#EXTINF:0 tvg-id="ext" group-title="Egypt",DMC News
+http://skdn.redi-vo.com/iptv/ch506?code=138137164006399&key=54896
+#EXTINF:0 tvg-id="ext" group-title="Egypt",DMC Sport
+http://skdn.redi-vo.com/iptv/ch505?code=138137164006399&key=17290
+#EXTINF:0 tvg-id="ext" group-title="Egypt",DMC HD
+http://skdn.redi-vo.com/iptv/ch432?code=138137164006399&key=39781
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Panorama Film
+http://skdn.redi-vo.com/iptv/ch189?code=138137164006399&key=26025
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al hayat we alnas
+http://skdn.redi-vo.com/iptv/ch1052?code=138137164006399&key=31808
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Misr El balad
+http://skdn.redi-vo.com/iptv/ch1051?code=138137164006399&key=14608
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Mekameleen TV
+http://skdn.redi-vo.com/iptv/ch439?code=138137164006399&key=28163
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Faraeen TV
+http://skdn.redi-vo.com/iptv/ch133?code=138137164006399&key=62436
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al Oula Masr
+http://skdn.redi-vo.com/iptv/ch483?code=138137164006399&key=56458
+#EXTINF:0 tvg-id="ext" group-title="Egypt",AL Naas
+http://skdn.redi-vo.com/iptv/ch1147?code=138137164006399&key=39018
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Direct Egy
+http://skdn.redi-vo.com/iptv/ch1124?code=138137164006399&key=34018
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Moga Comedy
+http://skdn.redi-vo.com/iptv/ch725?code=138137164006399&key=30841
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al Saeed TV
+http://skdn.redi-vo.com/iptv/ch769?code=138137164006399&key=11427
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al Kanal
+http://skdn.redi-vo.com/iptv/ch503?code=138137164006399&key=57264
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Masriya Aflem
+http://skdn.redi-vo.com/iptv/ch701?code=138137164006399&key=33775
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Time Cinema
+http://skdn.redi-vo.com/iptv/ch702?code=138137164006399&key=43551
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Majestic Cinema
+http://skdn.redi-vo.com/iptv/ch708?code=138137164006399&key=57783
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al Kahera
+http://skdn.redi-vo.com/iptv/ch709?code=138137164006399&key=44205
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Amaken
+http://skdn.redi-vo.com/iptv/ch1537?code=138137164006399&key=38297
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Amaken Drama
+http://skdn.redi-vo.com/iptv/ch712?code=138137164006399&key=21186
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Panorama Food
+http://skdn.redi-vo.com/iptv/ch839?code=138137164006399&key=18339
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Cima Alibaba
+http://skdn.redi-vo.com/iptv/ch706?code=138137164006399&key=19588
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Cinema Pro
+http://skdn.redi-vo.com/iptv/ch764?code=138137164006399&key=60930
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Star Cinema 2
+http://skdn.redi-vo.com/iptv/ch742?code=138137164006399&key=20590
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Imagine Movies
+http://skdn.redi-vo.com/iptv/ch718?code=138137164006399&key=19141
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Darbaka Cinema
+http://skdn.redi-vo.com/iptv/ch738?code=138137164006399&key=22354
+#EXTINF:0 tvg-id="Ten.es" group-title="Egypt",Ten
+http://skdn.redi-vo.com/iptv/ch2000?code=138137164006399&key=37619
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Melody Classic
+http://skdn.redi-vo.com/iptv/ch770?code=138137164006399&key=12565
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Sada Al Balad Drama
+http://skdn.redi-vo.com/iptv/ch778?code=138137164006399&key=43734
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Kahera Wa Ness
+http://skdn.redi-vo.com/iptv/ch790?code=138137164006399&key=38796
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Kaher Wa Ness 2
+http://skdn.redi-vo.com/iptv/ch169?code=138137164006399&key=30648
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Panorama Drama 2
+http://skdn.redi-vo.com/iptv/ch793?code=138137164006399&key=38871
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Panorama Drama
+http://skdn.redi-vo.com/iptv/ch164?code=138137164006399&key=50482
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Sada El Balad 2
+http://skdn.redi-vo.com/iptv/ch1120?code=138137164006399&key=35173
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Sada El Balad
+http://skdn.redi-vo.com/iptv/ch794?code=138137164006399&key=62863
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al Masriya
+http://skdn.redi-vo.com/iptv/ch479?code=138137164006399&key=34372
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Al Delta TV
+http://skdn.redi-vo.com/iptv/ch457?code=138137164006399&key=23151
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Star Cinema 1
+http://skdn.redi-vo.com/iptv/ch196?code=138137164006399&key=54145
+
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",TDC HD
+http://skdn.redi-vo.com/iptv/ch8608?code=138137164006399&key=22177
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Alyoum
+http://skdn.redi-vo.com/iptv/ch1662?code=138137164006399&key=53106
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",AlSafwa
+http://skdn.redi-vo.com/iptv/ch1661?code=138137164006399&key=11679
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Musalsalat
+http://skdn.redi-vo.com/iptv/ch1665?code=138137164006399&key=21305
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Musalsalat2
+http://skdn.redi-vo.com/iptv/ch1666?code=138137164006399&key=56696
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Arabic Premium",Cinema1
+http://skdn.redi-vo.com/iptv/ch1663?code=138137164006399&key=41281
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Cinema2
+http://skdn.redi-vo.com/iptv/ch1664?code=138137164006399&key=23877
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",fann
+http://skdn.redi-vo.com/iptv/ch1660?code=138137164006399&key=61432
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Music Now
+http://skdn.redi-vo.com/iptv/ch1667?code=138137164006399&key=45978
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Yahala
+http://skdn.redi-vo.com/iptv/ch590?code=138137164006399&key=60748
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Yahala Cinema
+http://skdn.redi-vo.com/iptv/ch591?code=138137164006399&key=30097
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",OSN Yahala oula
+http://skdn.redi-vo.com/iptv/ch592?code=138137164006399&key=11041
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",OSN SYFY
+http://skdn.redi-vo.com/iptv/ch594?code=138137164006399&key=46873
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",OSN Movies Disney
+http://skdn.redi-vo.com/iptv/ch595?code=138137164006399&key=58605
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",OSN Enigma
+http://skdn.redi-vo.com/iptv/ch593?code=138137164006399&key=45052
+#EXTINF:0 tvg-id="OSNFirst.net" group-title="Arabic Premium",OSN Movies First
+http://skdn.redi-vo.com/iptv/ch589?code=138137164006399&key=11805
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",OSN Living
+http://skdn.redi-vo.com/iptv/ch596?code=138137164006399&key=13223
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",OSN Comedy
+http://skdn.redi-vo.com/iptv/ch597?code=138137164006399&key=25374
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",OSN Thriller
+http://skdn.redi-vo.com/iptv/ch598?code=138137164006399&key=14704
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",OSN Action
+http://skdn.redi-vo.com/iptv/ch599?code=138137164006399&key=64587
+#EXTINF:0 tvg-id="fox-hd" group-title="Arabic Premium",FOX HD
+http://skdn.redi-vo.com/iptv/ch8605?code=138137164006399&key=37496
+#EXTINF:0 tvg-id="FOXmovies.svn" group-title="Arabic Premium",Fox Movies HD
+http://skdn.redi-vo.com/iptv/ch2205?code=138137164006399&key=24613
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Fox Movies Action HD
+http://skdn.redi-vo.com/iptv/ch2206?code=138137164006399&key=45920
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Fox Crime Ar.
+http://skdn.redi-vo.com/iptv/ch681?code=138137164006399&key=34542
+#EXTINF:0 tvg-id="FoxLife.ar" group-title="Arabic Premium",Fox Life Ar.
+http://skdn.redi-vo.com/iptv/ch680?code=138137164006399&key=15663
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Fox Rewayat
+http://skdn.redi-vo.com/iptv/ch1191?code=138137164006399&key=30194
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Fire Movies HD
+http://skdn.redi-vo.com/iptv/ch8618?code=138137164006399&key=19670
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Family Movies HD
+http://skdn.redi-vo.com/iptv/ch8619?code=138137164006399&key=26017
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Star World Ar.
+http://skdn.redi-vo.com/iptv/ch1192?code=138137164006399&key=34820
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Star Movies Ar.
+http://skdn.redi-vo.com/iptv/ch1193?code=138137164006399&key=30225
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",MBC Plus Drama
+http://skdn.redi-vo.com/iptv/ch502?code=138137164006399&key=36710
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Fatafeat
+http://skdn.redi-vo.com/iptv/ch5518?code=138137164006399&key=10871
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Be Gourmet
+http://skdn.redi-vo.com/iptv/ch5517?code=138137164006399&key=61410
+#EXTINF:0 tvg-id="MBC1.net" group-title="Arabic Premium",MBC 1 HD
+http://skdn.redi-vo.com/iptv/ch827?code=138137164006399&key=35398
+#EXTINF:0 tvg-id="MBC2.net" group-title="Arabic Premium",MBC 2 HD
+http://skdn.redi-vo.com/iptv/ch828?code=138137164006399&key=62428
+#EXTINF:0 tvg-id="MBC3.net" group-title="Arabic Premium",MBC 3 HD
+http://skdn.redi-vo.com/iptv/ch2200?code=138137164006399&key=60265
+#EXTINF:0 tvg-id="MBC4.net" group-title="Arabic Premium",MBC 4 HD
+http://skdn.redi-vo.com/iptv/ch829?code=138137164006399&key=60304
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",MBC Iraq HD
+http://skdn.redi-vo.com/iptv/ch1642?code=138137164006399&key=28130
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",MBC Variety
+http://skdn.redi-vo.com/iptv/ch1102?code=138137164006399&key=41334
+#EXTINF:0 tvg-id="MBCAction.net" group-title="Arabic Premium",MBC Action HD
+http://skdn.redi-vo.com/iptv/ch1109?code=138137164006399&key=44936
+#EXTINF:0 tvg-id="MBCMax.net" group-title="Arabic Premium",MBC Max HD
+http://skdn.redi-vo.com/iptv/ch2201?code=138137164006399&key=23874
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="Arabic Premium",MBC Drama HD
+http://skdn.redi-vo.com/iptv/ch2202?code=138137164006399&key=36492
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",MBC Bollyood HD
+http://skdn.redi-vo.com/iptv/ch347?code=138137164006399&key=30989
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",LBC HD
+http://skdn.redi-vo.com/iptv/ch2217?code=138137164006399&key=45067
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Film Box Art HD
+http://skdn.redi-vo.com/iptv/ch8614?code=138137164006399&key=55382
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Film Box HD
+http://skdn.redi-vo.com/iptv/ch8612?code=138137164006399&key=29677
+#EXTINF:0 tvg-id="fashion-box-hd" group-title="Arabic Premium",Fashion Box HD
+http://skdn.redi-vo.com/iptv/ch8613?code=138137164006399&key=62102
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",My Cinema HD
+http://skdn.redi-vo.com/iptv/ch8611?code=138137164006399&key=13636
+#EXTINF:0 tvg-id="Woman.svn" group-title="Arabic Premium",Woman HD
+http://skdn.redi-vo.com/iptv/ch1101?code=138137164006399&key=52879
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",BeIn Movies 1 HD
+http://skdn.redi-vo.com/iptv/ch5513?code=138137164006399&key=55091
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",BeIn Movies 2 HD
+http://skdn.redi-vo.com/iptv/ch5514?code=138137164006399&key=28666
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",BeIn Movies 3 HD
+http://skdn.redi-vo.com/iptv/ch5515?code=138137164006399&key=12953
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",BeIn Movies 4 HD
+http://skdn.redi-vo.com/iptv/ch5516?code=138137164006399&key=18949
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",BeIn Drama HD
+http://skdn.redi-vo.com/iptv/ch8600?code=138137164006399&key=25726
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",BeIn Series 1 HD
+http://skdn.redi-vo.com/iptv/ch8601?code=138137164006399&key=24872
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",BeIn Series 2 HD
+http://skdn.redi-vo.com/iptv/ch8602?code=138137164006399&key=54646
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",BeIn HGTV HD
+http://skdn.redi-vo.com/iptv/ch8603?code=138137164006399&key=60375
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",BeIn Travel HD
+http://skdn.redi-vo.com/iptv/ch8604?code=138137164006399&key=54445
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",ART Aflem 1
+http://skdn.redi-vo.com/iptv/ch40?code=138137164006399&key=54308
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",ART Aflem 2
+http://skdn.redi-vo.com/iptv/ch41?code=138137164006399&key=33948
+#EXTINF:0 tvg-id="ARTCinema.net" group-title="Arabic Premium",ART Cinema
+http://skdn.redi-vo.com/iptv/ch602?code=138137164006399&key=33816
+#EXTINF:0 tvg-id="ARTHekayat.net" group-title="Arabic Premium",ART Hekayat
+http://skdn.redi-vo.com/iptv/ch758?code=138137164006399&key=11311
+#EXTINF:0 tvg-id="ARTHekayat2.net" group-title="Arabic Premium",ART Hekayat 2
+http://skdn.redi-vo.com/iptv/ch759?code=138137164006399&key=13444
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",ART Hekayat kamen
+http://skdn.redi-vo.com/iptv/ch1153?code=138137164006399&key=11144
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Rotana Cinema HD
+http://skdn.redi-vo.com/iptv/ch2216?code=138137164006399&key=40094
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Rotana Masria HD
+http://skdn.redi-vo.com/iptv/ch2215?code=138137164006399&key=44298
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Rotana Aflam HD
+http://skdn.redi-vo.com/iptv/ch2214?code=138137164006399&key=28931
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Rotana Classic HD
+http://skdn.redi-vo.com/iptv/ch2213?code=138137164006399&key=25368
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Rotana Music HD
+http://skdn.redi-vo.com/iptv/ch2212?code=138137164006399&key=14255
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Rotana Khalijia HD
+http://skdn.redi-vo.com/iptv/ch2211?code=138137164006399&key=14841
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Al Resala HD
+http://skdn.redi-vo.com/iptv/ch2210?code=138137164006399&key=23947
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",OSN ON DEMAND 1
+http://skdn.redi-vo.com/iptv/ch900?code=138137164006399&key=43808
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",OSN ON DEMAND 2
+http://skdn.redi-vo.com/iptv/ch901?code=138137164006399&key=46111
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",OSN ON DEMAND 3
+http://skdn.redi-vo.com/iptv/ch902?code=138137164006399&key=11311
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",OSN ON DEMAND 4
+http://skdn.redi-vo.com/iptv/ch903?code=138137164006399&key=47965
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",BeIn DreamWork HD
+http://skdn.redi-vo.com/iptv/ch8606?code=138137164006399&key=51746
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",BeJunior HD
+http://skdn.redi-vo.com/iptv/ch8607?code=138137164006399&key=41799
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Jeem HD
+http://skdn.redi-vo.com/iptv/ch5511?code=138137164006399&key=17011
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Baraem HD
+http://skdn.redi-vo.com/iptv/ch5510?code=138137164006399&key=49971
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Gulli Arabia
+http://skdn.redi-vo.com/iptv/ch348?code=138137164006399&key=49926
+#EXTINF:0 tvg-id="FixFoxi.de" group-title="Arabic Premium",Fix and Foxi
+http://skdn.redi-vo.com/iptv/ch2209?code=138137164006399&key=46141
+#EXTINF:0 tvg-id="Zoomoo.br" group-title="Arabic Premium",ZooMoo
+http://skdn.redi-vo.com/iptv/ch2207?code=138137164006399&key=12940
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Laab Wa Jad
+http://skdn.redi-vo.com/iptv/ch699?code=138137164006399&key=53081
+#EXTINF:0 tvg-id="baby-tv" group-title="Arabic Premium",Baby Tv
+http://skdn.redi-vo.com/iptv/ch8609?code=138137164006399&key=29304
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Nat. Geo. People
+http://skdn.redi-vo.com/iptv/ch8610?code=138137164006399&key=30351
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Nat. Geo. Kids
+http://skdn.redi-vo.com/iptv/ch381?code=138137164006399&key=35428
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Nat. Geo. Wild Ar.
+http://skdn.redi-vo.com/iptv/ch1190?code=138137164006399&key=10338
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Nat. Geo. Ar.
+http://skdn.redi-vo.com/iptv/ch1119?code=138137164006399&key=36427
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",My Documentary Ar.
+http://skdn.redi-vo.com/iptv/ch698?code=138137164006399&key=30629
+#EXTINF:0 tvg-id="AnimalPlanet.ar" group-title="Arabic Premium",Animal Planet Ar.
+http://skdn.redi-vo.com/iptv/ch1104?code=138137164006399&key=52996
+#EXTINF:0 tvg-id="DiscoveryScience.ar" group-title="Arabic Premium",Discovery Science Ar.
+http://skdn.redi-vo.com/iptv/ch1103?code=138137164006399&key=30504
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Planet Earth Tv
+http://skdn.redi-vo.com/iptv/ch349?code=138137164006399&key=32671
+#EXTINF:0 tvg-id="melody-zen" group-title="Arabic Premium",My Zen HD
+http://skdn.redi-vo.com/iptv/ch8615?code=138137164006399&key=36218
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Arabic Premium",Trace Urban HD
+http://skdn.redi-vo.com/iptv/ch8616?code=138137164006399&key=34146
+#EXTINF:0 tvg-id="TraceSport.uk" group-title="Arabic Premium",Trace Sport HD
+http://skdn.redi-vo.com/iptv/ch8617?code=138137164006399&key=47214
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Tune Box HD
+http://skdn.redi-vo.com/iptv/ch1105?code=138137164006399&key=24726
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",Fight Box
+http://skdn.redi-vo.com/iptv/ch1100?code=138137164006399&key=40043
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",KSA SPORT 1
+http://skdn.redi-vo.com/iptv/ch823?code=138137164006399&key=24089
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",KSA SPORT 2
+http://skdn.redi-vo.com/iptv/ch824?code=138137164006399&key=11420
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",KSA SPORT +1
+http://skdn.redi-vo.com/iptv/ch825?code=138137164006399&key=35447
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",KSA SPORT +2
+http://skdn.redi-vo.com/iptv/ch826?code=138137164006399&key=33731
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",AD Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch122?code=138137164006399&key=22635
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",AD Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch603?code=138137164006399&key=60843
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",AD Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch5519?code=138137164006399&key=59366
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",AD Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch5520?code=138137164006399&key=34513
+#EXTINF:0 tvg-id="ext" group-title="Arabic Premium",AD Sport 5 HD
+http://skdn.redi-vo.com/iptv/ch5521?code=138137164006399&key=40954
+
+#EXTINF:0 tvg-id="MBC1.net" group-title="Middle East",MBC 1
+http://skdn.redi-vo.com/iptv/ch30?code=138137164006399&key=44217
+#EXTINF:0 tvg-id="MBC2.net" group-title="Middle East",MBC 2
+http://skdn.redi-vo.com/iptv/ch31?code=138137164006399&key=55181
+#EXTINF:0 tvg-id="MBC3.net" group-title="Middle East",MBC 3
+http://skdn.redi-vo.com/iptv/ch32?code=138137164006399&key=59913
+#EXTINF:0 tvg-id="MBC4.net" group-title="Middle East",MBC 4
+http://skdn.redi-vo.com/iptv/ch33?code=138137164006399&key=18931
+#EXTINF:0 tvg-id="ext" group-title="Middle East",MBC 5
+http://skdn.redi-vo.com/iptv/ch39?code=138137164006399&key=37868
+#EXTINF:0 tvg-id="ext" group-title="Middle East",MBC Iraq
+http://skdn.redi-vo.com/iptv/ch1641?code=138137164006399&key=28752
+#EXTINF:0 tvg-id="MBCAction.net" group-title="Middle East",MBC Action
+http://skdn.redi-vo.com/iptv/ch34?code=138137164006399&key=17540
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="Middle East",MBC Bollywood
+http://skdn.redi-vo.com/iptv/ch35?code=138137164006399&key=31780
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="Middle East",MBC Drama
+http://skdn.redi-vo.com/iptv/ch36?code=138137164006399&key=49891
+#EXTINF:0 tvg-id="MBCMax.net" group-title="Middle East",MBC MAX
+http://skdn.redi-vo.com/iptv/ch38?code=138137164006399&key=19529
+#EXTINF:0 tvg-id="ext" group-title="Middle East",MBC Masr
+http://skdn.redi-vo.com/iptv/ch37?code=138137164006399&key=59496
+#EXTINF:0 tvg-id="ext" group-title="Middle East",MBC Masr 2
+http://skdn.redi-vo.com/iptv/ch480?code=138137164006399&key=29913
+#EXTINF:0 tvg-id="ext" group-title="Middle East",MBC 1 +4
+http://skdn.redi-vo.com/iptv/ch4030?code=138137164006399&key=20111
+#EXTINF:0 tvg-id="ext" group-title="Middle East",MBC 4 +4
+http://skdn.redi-vo.com/iptv/ch4033?code=138137164006399&key=25324
+#EXTINF:0 tvg-id="ext" group-title="Middle East",MBC Masr +4
+http://skdn.redi-vo.com/iptv/ch4037?code=138137164006399&key=45188
+#EXTINF:0 tvg-id="RotanaCinema.il" group-title="Middle East",Rotana Cinema
+http://skdn.redi-vo.com/iptv/ch45?code=138137164006399&key=32228
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Rotana Masria
+http://skdn.redi-vo.com/iptv/ch42?code=138137164006399&key=21676
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Rotana Classic
+http://skdn.redi-vo.com/iptv/ch44?code=138137164006399&key=30784
+#EXTINF:0 tvg-id="RotanaMusic.il" group-title="Middle East",Rotana Music
+http://skdn.redi-vo.com/iptv/ch43?code=138137164006399&key=36124
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Rotana Clip
+http://skdn.redi-vo.com/iptv/ch190?code=138137164006399&key=64170
+#EXTINF:0 tvg-id="cbc" group-title="Middle East",CBC
+http://skdn.redi-vo.com/iptv/ch23?code=138137164006399&key=48175
+#EXTINF:0 tvg-id="ext" group-title="Middle East",CBC Sofra
+http://skdn.redi-vo.com/iptv/ch760?code=138137164006399&key=59566
+#EXTINF:0 tvg-id="ext" group-title="Middle East",CBC EXTRA
+http://skdn.redi-vo.com/iptv/ch782?code=138137164006399&key=20602
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Middle East",CBC Drama
+http://skdn.redi-vo.com/iptv/ch22?code=138137164006399&key=43436
+#EXTINF:0 tvg-id="ext" group-title="Middle East",CBC +4
+http://skdn.redi-vo.com/iptv/ch4023?code=138137164006399&key=63229
+#EXTINF:0 tvg-id="ext" group-title="Middle East",CBC EXTRA +4
+http://skdn.redi-vo.com/iptv/ch4782?code=138137164006399&key=32793
+#EXTINF:0 tvg-id="ext" group-title="Middle East",B4U Aflem
+http://skdn.redi-vo.com/iptv/ch768?code=138137164006399&key=14807
+#EXTINF:0 tvg-id="ext" group-title="Middle East",B4U Plus
+http://skdn.redi-vo.com/iptv/ch763?code=138137164006399&key=59245
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Zee Alwen
+http://skdn.redi-vo.com/iptv/ch48?code=138137164006399&key=47557
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Zee Aflem
+http://skdn.redi-vo.com/iptv/ch74?code=138137164006399&key=43677
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Syria Drama
+http://skdn.redi-vo.com/iptv/ch71?code=138137164006399&key=35360
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Syria Sat
+http://skdn.redi-vo.com/iptv/ch197?code=138137164006399&key=35286
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Jordan Tv
+http://skdn.redi-vo.com/iptv/ch450?code=138137164006399&key=27313
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Beyti
+http://skdn.redi-vo.com/iptv/ch1539?code=138137164006399&key=41160
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Roya Tv
+http://skdn.redi-vo.com/iptv/ch797?code=138137164006399&key=11391
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Mehwar
+http://skdn.redi-vo.com/iptv/ch175?code=138137164006399&key=16087
+#EXTINF:0 tvg-id="ext" group-title="Middle East",JSC Documentaire
+http://skdn.redi-vo.com/iptv/ch76?code=138137164006399&key=43862
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Yemen TV
+http://skdn.redi-vo.com/iptv/ch364?code=138137164006399&key=63011
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Yemen Shabab
+http://skdn.redi-vo.com/iptv/ch562?code=138137164006399&key=37284
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Aden TV
+http://skdn.redi-vo.com/iptv/ch1130?code=138137164006399&key=29978
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Yemen Today
+http://skdn.redi-vo.com/iptv/ch1131?code=138137164006399&key=64419
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Eimen Tv
+http://skdn.redi-vo.com/iptv/ch1132?code=138137164006399&key=44172
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Sbaa Tv
+http://skdn.redi-vo.com/iptv/ch1133?code=138137164006399&key=49725
+#EXTINF:0 tvg-id="ext" group-title="Middle East",AL Sharq
+http://skdn.redi-vo.com/iptv/ch491?code=138137164006399&key=52883
+#EXTINF:0 tvg-id="tv5monde" group-title="Middle East",TV5 Monde
+http://skdn.redi-vo.com/iptv/ch192?code=138137164006399&key=13647
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Balkis TV
+http://skdn.redi-vo.com/iptv/ch443?code=138137164006399&key=24404
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Qatar Today
+http://skdn.redi-vo.com/iptv/ch1145?code=138137164006399&key=61104
+#EXTINF:0 tvg-id="QatarTV.net" group-title="Middle East",Qatar TV
+http://skdn.redi-vo.com/iptv/ch195?code=138137164006399&key=22506
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Alrayyan 1
+http://skdn.redi-vo.com/iptv/ch561?code=138137164006399&key=47609
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Alrayyan  al qadeem
+http://skdn.redi-vo.com/iptv/ch139?code=138137164006399&key=41559
+#EXTINF:0 tvg-id="ext" group-title="Middle East",AD Oula
+http://skdn.redi-vo.com/iptv/ch55?code=138137164006399&key=53567
+#EXTINF:0 tvg-id="AbuDhabiDrama.net" group-title="Middle East",Abu Dhabi Drama
+http://skdn.redi-vo.com/iptv/ch54?code=138137164006399&key=14738
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Abou Dhabi Emarat
+http://skdn.redi-vo.com/iptv/ch123?code=138137164006399&key=61338
+#EXTINF:0 tvg-id="DubaiOne.net" group-title="Middle East",Dubai One
+http://skdn.redi-vo.com/iptv/ch153?code=138137164006399&key=52810
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Nour Dubai
+http://skdn.redi-vo.com/iptv/ch184?code=138137164006399&key=38628
+#EXTINF:0 tvg-id="DubaiTVHD.net" group-title="Middle East",Dubai TV
+http://skdn.redi-vo.com/iptv/ch358?code=138137164006399&key=13983
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Dubai Oula
+http://skdn.redi-vo.com/iptv/ch25?code=138137164006399&key=50236
+#EXTINF:0 tvg-id="SamaDubai.net" group-title="Middle East",Sama Dubai
+http://skdn.redi-vo.com/iptv/ch193?code=138137164006399&key=36131
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Dubai Zaman
+http://skdn.redi-vo.com/iptv/ch757?code=138137164006399&key=33884
+#EXTINF:0 tvg-id="NatGeoAD.net" group-title="Middle East",Nat Geo AD
+http://skdn.redi-vo.com/iptv/ch75?code=138137164006399&key=22271
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Maspero Zaman
+http://skdn.redi-vo.com/iptv/ch1125?code=138137164006399&key=26363
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Lana TV
+http://skdn.redi-vo.com/iptv/ch820?code=138137164006399&key=59201
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Lana Plus TV
+http://skdn.redi-vo.com/iptv/ch1534?code=138137164006399&key=33895
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Sama
+http://skdn.redi-vo.com/iptv/ch198?code=138137164006399&key=21225
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Al Saha
+http://skdn.redi-vo.com/iptv/ch1538?code=138137164006399&key=62299
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Sehaty
+http://skdn.redi-vo.com/iptv/ch1536?code=138137164006399&key=13380
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Soyouf
+http://skdn.redi-vo.com/iptv/ch1535?code=138137164006399&key=43803
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Wanasah
+http://skdn.redi-vo.com/iptv/ch722?code=138137164006399&key=23884
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Saudi Thaquafia
+http://skdn.redi-vo.com/iptv/ch810?code=138137164006399&key=63593
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Nada Tv
+http://skdn.redi-vo.com/iptv/ch818?code=138137164006399&key=58113
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Safa Tv
+http://skdn.redi-vo.com/iptv/ch144?code=138137164006399&key=45253
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Saudi 24
+http://skdn.redi-vo.com/iptv/ch703?code=138137164006399&key=21535
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Al Ghad Al Araby
+http://skdn.redi-vo.com/iptv/ch485?code=138137164006399&key=40524
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Dhafra
+http://skdn.redi-vo.com/iptv/ch766?code=138137164006399&key=35320
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Remas
+http://skdn.redi-vo.com/iptv/ch1023?code=138137164006399&key=56780
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Al Ahd
+http://skdn.redi-vo.com/iptv/ch563?code=138137164006399&key=56142
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Al Ettijah
+http://skdn.redi-vo.com/iptv/ch128?code=138137164006399&key=41795
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Massaya TV
+http://skdn.redi-vo.com/iptv/ch444?code=138137164006399&key=29544
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Sharqyia
+http://skdn.redi-vo.com/iptv/ch446?code=138137164006399&key=33940
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Missrata
+http://skdn.redi-vo.com/iptv/ch452?code=138137164006399&key=42870
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Al Fath
+http://skdn.redi-vo.com/iptv/ch461?code=138137164006399&key=45222
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Hawacom TV
+http://skdn.redi-vo.com/iptv/ch462?code=138137164006399&key=10756
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Al Maali
+http://skdn.redi-vo.com/iptv/ch438?code=138137164006399&key=41110
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Saiida TV
+http://skdn.redi-vo.com/iptv/ch464?code=138137164006399&key=57354
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Majan Tv
+http://skdn.redi-vo.com/iptv/ch1144?code=138137164006399&key=49323
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Kuwait TV 1
+http://skdn.redi-vo.com/iptv/ch430?code=138137164006399&key=33183
+#EXTINF:0 tvg-id="ext" group-title="Middle East",Kuwait TV 2
+http://skdn.redi-vo.com/iptv/ch431?code=138137164006399&key=11760
+#EXTINF:0 tvg-id="ext" group-title="Middle East",KTV Arabic
+http://skdn.redi-vo.com/iptv/ch436?code=138137164006399&key=52868
+#EXTINF:0 tvg-id="ext" group-title="Middle East",KTV Plus
+http://skdn.redi-vo.com/iptv/ch356?code=138137164006399&key=63183
+#EXTINF:0 tvg-id="ext" group-title="Middle East",KTV Ethraa
+http://skdn.redi-vo.com/iptv/ch359?code=138137164006399&key=38613
+#EXTINF:0 tvg-id="ext" group-title="Middle East",LTC TV
+http://skdn.redi-vo.com/iptv/ch468?code=138137164006399&key=22254
+
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Al Rahma
+http://skdn.redi-vo.com/iptv/ch1015?code=138137164006399&key=51546
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Al Afasy
+http://skdn.redi-vo.com/iptv/ch1148?code=138137164006399&key=31339
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Mecca
+http://skdn.redi-vo.com/iptv/ch796?code=138137164006399&key=38118
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Saudi 1
+http://skdn.redi-vo.com/iptv/ch167?code=138137164006399&key=28262
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Saudi 2
+http://skdn.redi-vo.com/iptv/ch774?code=138137164006399&key=41681
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Saudi Haj
+http://skdn.redi-vo.com/iptv/ch363?code=138137164006399&key=24777
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Saudi Family
+http://skdn.redi-vo.com/iptv/ch357?code=138137164006399&key=58871
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Saudie Quran
+http://skdn.redi-vo.com/iptv/ch749?code=138137164006399&key=14955
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Saudie Sunnah
+http://skdn.redi-vo.com/iptv/ch750?code=138137164006399&key=49148
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Iqra
+http://skdn.redi-vo.com/iptv/ch165?code=138137164006399&key=34658
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Iqraa Khaier
+http://skdn.redi-vo.com/iptv/ch771?code=138137164006399&key=38757
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Bin Outhaimin Tv
+http://skdn.redi-vo.com/iptv/ch730?code=138137164006399&key=20510
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Time Quran TV
+http://skdn.redi-vo.com/iptv/ch715?code=138137164006399&key=51443
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Al Azhari TV
+http://skdn.redi-vo.com/iptv/ch756?code=138137164006399&key=38854
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Resalat Al Islem
+http://skdn.redi-vo.com/iptv/ch134?code=138137164006399&key=37203
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Ressala
+http://skdn.redi-vo.com/iptv/ch727?code=138137164006399&key=48453
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Menhag Ennouboua
+http://skdn.redi-vo.com/iptv/ch473?code=138137164006399&key=32292
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Alanis TV
+http://skdn.redi-vo.com/iptv/ch624?code=138137164006399&key=30156
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Quran TV
+http://skdn.redi-vo.com/iptv/ch707?code=138137164006399&key=34487
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Saudi Eqtisadia
+http://skdn.redi-vo.com/iptv/ch469?code=138137164006399&key=57163
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Al Quds
+http://skdn.redi-vo.com/iptv/ch143?code=138137164006399&key=64291
+#EXTINF:0 tvg-id="ext" group-title="Islamic",CORAN TV
+http://skdn.redi-vo.com/iptv/ch152?code=138137164006399&key=23985
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Ahl El Coran
+http://skdn.redi-vo.com/iptv/ch776?code=138137164006399&key=21841
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Shareia TV
+http://skdn.redi-vo.com/iptv/ch1143?code=138137164006399&key=29392
+
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 01
+http://skdn.redi-vo.com/iptv/ch704?code=138137164006399&key=44485
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 02
+http://skdn.redi-vo.com/iptv/ch710?code=138137164006399&key=20132
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 03
+http://skdn.redi-vo.com/iptv/ch176?code=138137164006399&key=52564
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 04
+http://skdn.redi-vo.com/iptv/ch125?code=138137164006399&key=16831
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 05
+http://skdn.redi-vo.com/iptv/ch720?code=138137164006399&key=25270
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 06
+http://skdn.redi-vo.com/iptv/ch690?code=138137164006399&key=12552
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 07
+http://skdn.redi-vo.com/iptv/ch691?code=138137164006399&key=13498
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 08
+http://skdn.redi-vo.com/iptv/ch692?code=138137164006399&key=33344
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 09
+http://skdn.redi-vo.com/iptv/ch693?code=138137164006399&key=45989
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 10
+http://skdn.redi-vo.com/iptv/ch694?code=138137164006399&key=44471
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 11
+http://skdn.redi-vo.com/iptv/ch695?code=138137164006399&key=33630
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 12
+http://skdn.redi-vo.com/iptv/ch696?code=138137164006399&key=43203
+#EXTINF:0 tvg-id="ext" group-title="Al Majd",Al Majd 13
+http://skdn.redi-vo.com/iptv/ch697?code=138137164006399&key=18614
+
+#EXTINF:0 tvg-id="france24" group-title="Arabic News",France 24
+http://skdn.redi-vo.com/iptv/ch159?code=138137164006399&key=48307
+#EXTINF:0 tvg-id="France24.fr" group-title="Arabic News",France 24 FR
+http://skdn.redi-vo.com/iptv/ch498?code=138137164006399&key=12990
+#EXTINF:0 tvg-id="france24" group-title="Arabic News",France 24 EN
+http://skdn.redi-vo.com/iptv/ch786?code=138137164006399&key=16562
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Al Masdar TV
+http://skdn.redi-vo.com/iptv/ch486?code=138137164006399&key=17047
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Russia Al Yaoum
+http://skdn.redi-vo.com/iptv/ch15?code=138137164006399&key=23966
+#EXTINF:0 tvg-id="AlArabiya.nws" group-title="Arabic News",AL Arabiya
+http://skdn.redi-vo.com/iptv/ch53?code=138137164006399&key=40130
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Al Araby TV
+http://skdn.redi-vo.com/iptv/ch855?code=138137164006399&key=30866
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Al HIWAR
+http://skdn.redi-vo.com/iptv/ch1605?code=138137164006399&key=20501
+#EXTINF:0 tvg-id="euro" group-title="Arabic News",Euro News
+http://skdn.redi-vo.com/iptv/ch146?code=138137164006399&key=45321
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Orient News
+http://skdn.redi-vo.com/iptv/ch437?code=138137164006399&key=44899
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="Arabic News",Aljazeera
+http://skdn.redi-vo.com/iptv/ch142?code=138137164006399&key=57934
+#EXTINF:0 tvg-id="SkyNwsArabia.uk" group-title="Arabic News",Sky News Arabia
+http://skdn.redi-vo.com/iptv/ch150?code=138137164006399&key=34750
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",CNBC Arabia
+http://skdn.redi-vo.com/iptv/ch151?code=138137164006399&key=15005
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Aljazeera Moubasher
+http://skdn.redi-vo.com/iptv/ch755?code=138137164006399&key=42259
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",JSC English
+http://skdn.redi-vo.com/iptv/ch779?code=138137164006399&key=21013
+#EXTINF:0 tvg-id="dwelle" group-title="Arabic News",DW-TV
+http://skdn.redi-vo.com/iptv/ch789?code=138137164006399&key=27840
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Al Ekhbarya essouria
+http://skdn.redi-vo.com/iptv/ch441?code=138137164006399&key=63209
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Al Arabya Hadath
+http://skdn.redi-vo.com/iptv/ch784?code=138137164006399&key=17794
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Al Alam TV
+http://skdn.redi-vo.com/iptv/ch504?code=138137164006399&key=16888
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",ANN
+http://skdn.redi-vo.com/iptv/ch52?code=138137164006399&key=42245
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",BBC World Arabic
+http://skdn.redi-vo.com/iptv/ch148?code=138137164006399&key=63892
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Asia Tv
+http://skdn.redi-vo.com/iptv/ch1149?code=138137164006399&key=27931
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Nile news
+http://skdn.redi-vo.com/iptv/ch182?code=138137164006399&key=47711
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Al Sharquia News
+http://skdn.redi-vo.com/iptv/ch559?code=138137164006399&key=10179
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Iraqiya News
+http://skdn.redi-vo.com/iptv/ch141?code=138137164006399&key=60529
+#EXTINF:0 tvg-id="ext" group-title="Arabic News",Saoudi  Ekhbarya
+http://skdn.redi-vo.com/iptv/ch493?code=138137164006399&key=11991
+
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Gear One
+http://skdn.redi-vo.com/iptv/ch753?code=138137164006399&key=31052
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Nile Sport
+http://skdn.redi-vo.com/iptv/ch183?code=138137164006399&key=52091
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Kuwait Sport
+http://skdn.redi-vo.com/iptv/ch792?code=138137164006399&key=24387
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Jordan Sport
+http://skdn.redi-vo.com/iptv/ch773?code=138137164006399&key=53794
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Al Kaas 1
+http://skdn.redi-vo.com/iptv/ch497?code=138137164006399&key=41077
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Al Kaas 2
+http://skdn.redi-vo.com/iptv/ch442?code=138137164006399&key=61547
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Al Kaas 4
+http://skdn.redi-vo.com/iptv/ch545?code=138137164006399&key=55586
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Yas Sports
+http://skdn.redi-vo.com/iptv/ch629?code=138137164006399&key=33283
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Ahly Channel
+http://skdn.redi-vo.com/iptv/ch783?code=138137164006399&key=54658
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Nahar Sport
+http://skdn.redi-vo.com/iptv/ch179?code=138137164006399&key=23340
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Dubai Sport 1
+http://skdn.redi-vo.com/iptv/ch154?code=138137164006399&key=34392
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Dubai Sport 2
+http://skdn.redi-vo.com/iptv/ch155?code=138137164006399&key=36726
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Dubai Sport 3
+http://skdn.redi-vo.com/iptv/ch1533?code=138137164006399&key=40629
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Dubai Racing 1
+http://skdn.redi-vo.com/iptv/ch1531?code=138137164006399&key=34212
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Dubai Racing 2
+http://skdn.redi-vo.com/iptv/ch1031?code=138137164006399&key=41198
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Dubai Racing 3
+http://skdn.redi-vo.com/iptv/ch1532?code=138137164006399&key=38638
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Saudie Sport
+http://skdn.redi-vo.com/iptv/ch747?code=138137164006399&key=48215
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport",Al Iraqya Sport
+http://skdn.redi-vo.com/iptv/ch841?code=138137164006399&key=64903
+
+#EXTINF:0 tvg-id="ext" group-title="Arabic Music",Arabica
+http://skdn.redi-vo.com/iptv/ch124?code=138137164006399&key=60955
+#EXTINF:0 tvg-id="ext" group-title="Arabic Music",Aghani
+http://skdn.redi-vo.com/iptv/ch751?code=138137164006399&key=52535
+#EXTINF:0 tvg-id="ext" group-title="Arabic Music",Eamaar Music
+http://skdn.redi-vo.com/iptv/ch1627?code=138137164006399&key=26555
+#EXTINF:0 tvg-id="ext" group-title="Arabic Music",Music Haneen
+http://skdn.redi-vo.com/iptv/ch126?code=138137164006399&key=61664
+#EXTINF:0 tvg-id="ext" group-title="Arabic Music",Mazzikh
+http://skdn.redi-vo.com/iptv/ch1150?code=138137164006399&key=38549
+#EXTINF:0 tvg-id="ext" group-title="Arabic Music",Funoon
+http://skdn.redi-vo.com/iptv/ch160?code=138137164006399&key=14713
+#EXTINF:0 tvg-id="ext" group-title="Arabic Music",Free Tv
+http://skdn.redi-vo.com/iptv/ch61?code=138137164006399&key=42272
+#EXTINF:0 tvg-id="ext" group-title="Arabic Music",Maestro
+http://skdn.redi-vo.com/iptv/ch1152?code=138137164006399&key=17497
+#EXTINF:0 tvg-id="ext" group-title="Arabic Music",Noughoum FM
+http://skdn.redi-vo.com/iptv/ch1151?code=138137164006399&key=27622
+#EXTINF:0 tvg-id="ext" group-title="Arabic Music",Mazzika
+http://skdn.redi-vo.com/iptv/ch29?code=138137164006399&key=27885
+#EXTINF:0 tvg-id="ext" group-title="Arabic Music",Rotana Khaligia
+http://skdn.redi-vo.com/iptv/ch46?code=138137164006399&key=28703
+
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Majed Kids TV
+http://skdn.redi-vo.com/iptv/ch1752?code=138137164006399&key=20481
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Baynouna TV
+http://skdn.redi-vo.com/iptv/ch799?code=138137164006399&key=24804
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Toyour Baby
+http://skdn.redi-vo.com/iptv/ch472?code=138137164006399&key=37845
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Toyour Al Jannah
+http://skdn.redi-vo.com/iptv/ch73?code=138137164006399&key=47614
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Space Toon
+http://skdn.redi-vo.com/iptv/ch49?code=138137164006399&key=61052
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Cartoon Network Arab
+http://skdn.redi-vo.com/iptv/ch65?code=138137164006399&key=30305
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Mickey Channel
+http://skdn.redi-vo.com/iptv/ch788?code=138137164006399&key=25834
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Koky Kids
+http://skdn.redi-vo.com/iptv/ch736?code=138137164006399&key=21161
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Mody Kids
+http://skdn.redi-vo.com/iptv/ch717?code=138137164006399&key=20775
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Kidzania TV
+http://skdn.redi-vo.com/iptv/ch731?code=138137164006399&key=31338
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Semsem TV
+http://skdn.redi-vo.com/iptv/ch445?code=138137164006399&key=56249
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Karameesh
+http://skdn.redi-vo.com/iptv/ch199?code=138137164006399&key=10663
+#EXTINF:0 tvg-id="ext" group-title="Arabic Kids",Taha
+http://skdn.redi-vo.com/iptv/ch748?code=138137164006399&key=16014
+
+#EXTINF:0 tvg-id="ext" group-title="AraBoxOffice",Araboxoffice1
+http://skdn.redi-vo.com/iptv/ch310?code=138137164006399&key=61998
+#EXTINF:0 tvg-id="ext" group-title="AraBoxOffice",Araboxoffice2
+http://skdn.redi-vo.com/iptv/ch311?code=138137164006399&key=20755
+#EXTINF:0 tvg-id="ext" group-title="AraBoxOffice",Araboxoffice3
+http://skdn.redi-vo.com/iptv/ch312?code=138137164006399&key=16868
+#EXTINF:0 tvg-id="ext" group-title="AraBoxOffice",Araboxoffice4
+http://skdn.redi-vo.com/iptv/ch313?code=138137164006399&key=14435
+#EXTINF:0 tvg-id="ext" group-title="AraBoxOffice",Araboxoffice5
+http://skdn.redi-vo.com/iptv/ch314?code=138137164006399&key=23642
+#EXTINF:0 tvg-id="ext" group-title="AraBoxOffice",Araboxoffice6
+http://skdn.redi-vo.com/iptv/ch315?code=138137164006399&key=14303
+#EXTINF:0 tvg-id="ext" group-title="AraBoxOffice",Araboxoffice7
+http://skdn.redi-vo.com/iptv/ch316?code=138137164006399&key=40994
+#EXTINF:0 tvg-id="ext" group-title="AraBoxOffice",Araboxoffice8
+http://skdn.redi-vo.com/iptv/ch317?code=138137164006399&key=64731
+#EXTINF:0 tvg-id="ext" group-title="AraBoxOffice",Araboxoffice9
+http://skdn.redi-vo.com/iptv/ch318?code=138137164006399&key=44351
+#EXTINF:0 tvg-id="ext" group-title="AraBoxOffice",Araboxoffice10
+http://skdn.redi-vo.com/iptv/ch319?code=138137164006399&key=38935
